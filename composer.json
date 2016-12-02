@@ -1,6 +1,7 @@
 {
   "require": {
     "php": ">=5.5.0",
+    "ext-curl": "*",
     "slim/slim": "2.3.2",
     "slim/extras": "dev-develop",
     "twig/twig":  "1.*",
